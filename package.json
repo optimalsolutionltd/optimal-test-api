@@ -26,17 +26,13 @@
       "git add"
     ]
   },
-  "author": {
-    "name": "Optimal Solution ltd",
-    "email": "contact@optimal.com.tn",
-    "url": "https://optimal.com.tn"
-  },
-  "license": "private",
+  "author": "Optimal Solution ltd <contact@optimal.com.tn> (https://optimal.com.tn)",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/optimal-solution/optimal-test/optimal-test-api.git"
+    "url": "https://github.com/optimalsolutionltd/optimal-test-api.git"
   },
-  "homepage": "https://test.optimal.com.tn",
+  "homepage": "https://optimal.com.tn",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
@@ -64,5 +60,8 @@
     "prettier": "^1.10.2",
     "prettier-eslint": "^8.8.1",
     "supertest": "^3.0.0"
-  }
+  },
+  "keywords": [
+    "api","mongodb","express","rest"
+  ]
 }
